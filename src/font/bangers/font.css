@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Bangers';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Bangers-Regular.eot'); /* IE9 */
+  src: url('../fonts/Bangers-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/Bangers-Regular.woff2') format('woff2'), /* Modern Browsers */
+    url('../fonts/Bangers-Regular.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/Bangers-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/Bangers-Regular.svg#Bangers') format('svg'); /* Legacy iOS */
+}
